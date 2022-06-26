@@ -4,7 +4,8 @@
 I've been a Full Stack Developer for a little over 6 months now. <br>
 Continually evolving and adapting with the flow of technology.
 
-- 🔭 I’m currently working on finding new interesting projects and teams to collaborate with.
+- 🔭 I’m currently working on finding new interesting projects <br>
+  and teams to collaborate with. As well a place of employment.
 - 🌱 I’m currently learning React on a more advanced scale.
 - 👯 I’m looking to collaborate on anything Front End or Back End.
 - 🤔 I’m looking for help with expanding the new and upcoming tech.
