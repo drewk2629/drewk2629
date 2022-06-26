@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey! I'm Drew 
+#### New graduate from The Univerity of Chapel Hill
 
-<!--
-**drewk2629/drewk2629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been a Full Stack Developer for a little over 6 months now. <br>
+Continually evolving and adapting with the flow of technology.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on finding new interesting projects and teams to collaborate with.
+- 🌱 I’m currently learning React on a more advanced scale.
+- 👯 I’m looking to collaborate on anything Front End or Back End.
+- 🤔 I’m looking for help with expanding the new and upcoming tech.
+- 💬 Ask me about anything! I'm an open book.
+- 📫 How to reach me: You can reach me by email at drewk2629@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love music. I've been a musician most of my life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![hacker-hackerman](https://user-images.githubusercontent.com/94206317/175794261-1e934c2a-84f0-4836-a03a-f92d306d13f7.gif)
