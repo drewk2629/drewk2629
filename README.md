@@ -1,5 +1,5 @@
-### Hey! I'm Drew 
-#### New graduate from The Univerity of Chapel Hill
+### Hey! I'm Drew. 😎
+#### New graduate from The Univerity of Chapel Hill.
 
 I've been a Full Stack Developer for a little over 6 months now. <br>
 Continually evolving and adapting with the flow of technology.
@@ -13,6 +13,6 @@ Continually evolving and adapting with the flow of technology.
 - 📫 How to reach me: You can reach me by email at drewk2629@gmail.com <br>
   My LinkedIn profile is https://www.linkedin.com/in/drew-knoeller-885697225/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love music. I've been a musician most of my life.
+- ⚡ Fun fact: I love music! I've been a musician most of my life. 🤘
 
 ![hacker-hackerman](https://user-images.githubusercontent.com/94206317/175794261-1e934c2a-84f0-4836-a03a-f92d306d13f7.gif)
