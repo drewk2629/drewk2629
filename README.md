@@ -5,9 +5,9 @@ I've been a Full Stack Developer for a little over 6 months now.
 Continually evolving and adapting with the flow of technology.
 
 - 🔭 I’m currently working on finding new interesting projects
-  and teams to collaborate with. As well as place of employment.
+  and teams to collaborate with. As well as a place of employment.
 - 🌱 I’m currently learning React on a more advanced scale.
-- 👯 I’m looking to collaborate on anything Front End or Back End.
+- 👯 I’m looking to collaborate on anything Front-end or Back-end!
 - 🤔 I’m looking for help with expanding my knowledge on any new and upcoming tech.
 - 💬 Ask me about anything! I'm an open book.
 - 📫 How to reach me: You can reach me by email at - drewk2629@gmail.com <br>
