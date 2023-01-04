@@ -1,7 +1,7 @@
 ### Hey! I'm Drew. 😎
 #### New graduate from The University of North Carolina Chapel Hill.
 
-I've been a Full Stack Developer for a little over 6 months now.
+I've been a Full Stack Developer for a little over a year now.
 Continually evolving and adapting with the flow of technology.
 
 - 🔭 I’m currently working on finding new interesting projects
